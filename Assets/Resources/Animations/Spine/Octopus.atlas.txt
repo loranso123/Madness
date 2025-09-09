@@ -1,0 +1,146 @@
+
+Octopus.png
+size: 1656,1656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 651
+  size: 1099, 1003
+  orig: 1099, 1003
+  offset: 0, 0
+  index: -1
+closed_eye_left
+  rotate: false
+  xy: 1393, 961
+  size: 220, 243
+  orig: 222, 245
+  offset: 1, 1
+  index: -1
+closed_eye_right
+  rotate: true
+  xy: 1250, 170
+  size: 179, 219
+  orig: 181, 221
+  offset: 1, 1
+  index: -1
+eye-ball_left
+  rotate: false
+  xy: 1393, 759
+  size: 204, 200
+  orig: 204, 200
+  offset: 0, 0
+  index: -1
+eye-ball_right
+  rotate: false
+  xy: 1471, 169
+  size: 170, 180
+  orig: 170, 180
+  offset: 0, 0
+  index: -1
+eye-lid-right
+  rotate: false
+  xy: 1182, 8
+  size: 161, 160
+  orig: 161, 160
+  offset: 0, 0
+  index: -1
+eye_lid_left
+  rotate: false
+  xy: 985, 13
+  size: 195, 185
+  orig: 198, 189
+  offset: 1, 2
+  index: -1
+gill-left
+  rotate: true
+  xy: 1393, 652
+  size: 105, 157
+  orig: 105, 157
+  offset: 0, 0
+  index: -1
+gill-right
+  rotate: true
+  xy: 1345, 33
+  size: 135, 106
+  orig: 135, 106
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 37
+  size: 612, 656
+  orig: 612, 656
+  offset: 0, 0
+  index: -1
+iris_left
+  rotate: false
+  xy: 1453, 49
+  size: 119, 118
+  orig: 123, 120
+  offset: 2, 1
+  index: -1
+iris_right
+  rotate: true
+  xy: 1525, 540
+  size: 110, 108
+  orig: 115, 110
+  offset: 4, 1
+  index: -1
+shine_right
+  rotate: true
+  xy: 1615, 1164
+  size: 40, 39
+  orig: 45, 46
+  offset: 3, 4
+  index: -1
+shine–left
+  rotate: false
+  xy: 1574, 119
+  size: 49, 48
+  orig: 53, 54
+  offset: 3, 4
+  index: -1
+tentacle-01
+  rotate: false
+  xy: 1103, 652
+  size: 288, 552
+  orig: 288, 552
+  offset: 0, 0
+  index: -1
+tentacle-02
+  rotate: false
+  xy: 1103, 1206
+  size: 529, 448
+  orig: 529, 448
+  offset: 0, 0
+  index: -1
+tentacle-03
+  rotate: true
+  xy: 985, 200
+  size: 449, 263
+  orig: 449, 263
+  offset: 0, 0
+  index: -1
+tentacle-04-middle
+  rotate: true
+  xy: 1250, 351
+  size: 299, 273
+  orig: 299, 273
+  offset: 0, 0
+  index: -1
+tentacle-04-start
+  rotate: false
+  xy: 660, 96
+  size: 323, 553
+  orig: 326, 553
+  offset: 3, 0
+  index: -1
+tentacle-04-tip
+  rotate: true
+  xy: 660, 10
+  size: 84, 132
+  orig: 87, 137
+  offset: 2, 0
+  index: -1

@@ -44756,7 +44756,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 54.3
+  m_fontSize: 54.35
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -54719,6 +54719,10 @@ PrefabInstance:
       propertyPath: m_SortingLayer
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1432675247188010373, guid: 17c6cc0ef2ae77441be156becdc275ed, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 347dbe010a5894048a66182bb7c1de5b, type: 2}
     - target: {fileID: 1618542213566758611, guid: 17c6cc0ef2ae77441be156becdc275ed, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -48.753513
